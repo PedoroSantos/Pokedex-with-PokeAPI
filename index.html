@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8" />
+  <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <link rel="preconnect" href="https:/s/fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=Press+Start+2P&display=swap" rel="stylesheet" />
+  <link rel="stylesheet" href="style.css">
+  <title>My Pokedex</title>
+</head>
+
+<body>
+  <div class="pokedex-center">
+    <img src="img/pokedex.png" id="pokedex-overlay">
+    <div class="pokedex-container">
+      <input type="text" id="search" oninput="search()" placeholder="Insert Id or Name">
+      <div class="pokemon">
+        <img src="" id="poke_pic" />
+        <h2 id="poke_name"></h2>
+        <p id="poke_id"></p>
+        <p id="poke_weight"></p>
+        <p id="poke_height"></p>
+      </div>
+      <div class="message">
+        <img src="img/sad.png" alt="pokenotfound" width="100px" style="filter:invert();">
+        <p style="font-size: 16px; font-weight: bold;">Pokemon<br> Not Found!</p>
+      </div>
+    </div>
+
+
+
+  </div>
+
+  <script src="app.js"></script>
+</body>
+
+</html>

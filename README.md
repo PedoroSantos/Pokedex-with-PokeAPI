@@ -6,7 +6,7 @@ This is a simple Pokédex created using the Poke API. The Pokédex is a virtual 
 
 ## Demo
 
-You can see the Pokédex in action [here]([https://example.com](https://pedorosantos.github.io/Pokedex-with-PokeAPI/)).
+You can see the Pokédex in action [here](https://pedorosantos.github.io/Pokedex-with-PokeAPI/).
 
 ## Features
 

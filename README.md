@@ -1,7 +1,6 @@
 # Pokédex  
 ![Ícone de Cabeça de Pikachu](https://img.icons8.com/color/48/000000/pikachu-pokemon.png)  ![Ícone de Pokédex](https://img.icons8.com/color/48/000000/pokedex.png)
 
-
 This is a simple Pokédex created using the Poke API. The Pokédex is a virtual encyclopedia that contains information about different Pokémon species. With this application, you can search for details of each Pokémon, such as its name, type, abilities, and statistics.
 
 ## Demo

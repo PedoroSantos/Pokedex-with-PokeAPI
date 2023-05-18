@@ -11,7 +11,7 @@ You can see the Pokédex in action [here](https://pedorosantos.github.io/Pokedex
 ## Features
 
 - **Search by Name or Number:** Enter the name or number of a Pokémon in the search bar to retrieve information about it.
-- **Pokémon Details:** View details about each Pokémon, including its name, type, abilities, and statistics.
+- **Pokémon Details:** View details about each Pokémon, including its name, id, weight and height.
 - **Pokémon Image:** Each Pokémon has an image for easy visual identification.
 - **Responsive:** The application is fully responsive and adapts to different screen sizes.
 
